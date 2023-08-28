@@ -5,37 +5,19 @@ sitemap: false
 permalink: /research/
 ---
 
-<style>
-img{
-  border-radius: 10px;
-}
-.col-md-3 {
-  margin-top:10px;
-  margin-bottom:10px;
-  padding:0px;
-  display:block;
-  overflow:hidden;
-  text-align:center;
-  display: table-cell;
-  background: white;
-  border-radius: 20px;
-  height: auto;
-}
-iframe {
-  margin:0;
-  padding:0;
-  width: 175px;
-  display: inline;
-  vertical-align: middle;
-}
-</style>
-
-## Research
+## Research projects
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+#### The predictability of midlatitude cyclones: Idealized case studies
 
-Example description
 </div>
+
+<div class="jumbotron">
+#### Initializing realistic idealized midlatitude cyclones with moisture
+
+</div>
+
+<div class="jumbotron">
+#### The predictability of midlatitude cyclones: Real-world case studies
+
 </div>

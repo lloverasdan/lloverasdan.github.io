@@ -5,7 +5,7 @@ sitemap: false
 permalink: /about/
 ---
 
-## About 
+## About me
 
 {% for member in site.data.pi %}
 <div class="jumbotron">
@@ -62,42 +62,31 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
 <div class="jumbotron">
-### Grants
-<ul>
-{% for grant in site.data.grants %}
- <li> {{ grant.name }} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
+#### Background
 
-{% if site.data.awards %}
-<div class="jumbotron">
-### Awards
-<ul>
-{% for award in site.data.awards %}
- <li> {{ award.name | replace: "-","&#8211;"}} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
+I am a PhD candidate in the Department of Atmospheric Sciences at the University of Washington. My research deals with atmospheric predictability, specifically focusing on the initial-condition errors that lead to poor forecasts of midlatitude cyclones. I use WRF simulations of both idealized and real-world cyclones to conduct my experiments. My advisor is Professor Dale Durran.
 
-{% if site.data.people %}
-<div class="jumbotron">
-### Students and mentoring
-<ul>
-{% for student in site.data.people %}
- <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
-{% endfor %}
-</ul>
+I completed my MS at the University of Washington in 2021. For my MS thesis, I compared initial-condition-error growth in idealized midlatitude cyclones with that of homogeneous, isotropic turbulence, which is the context in which Lorenz observed the "butterfly effect".
+
+I completed my BS at the University of Miami in 2018. For my senior thesis, I investigated the effect of shortwave-absorbing smoke particles on low-cloud cover over the southeast Atlantic Ocean. I also completed a summer research internship at the Geophysical Fluid Dynamics Laboratory, where I studied the predictability of summertime precipitation over the southeastern United States.
+
 </div>
-{% endif %}
 
 <div class="jumbotron">
-  <h4>Sponsors</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
- {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
+#### Interests and goals
+
+Broadly speaking, my goal is to use my background in meteorology and numerical modeling to contribute to the improvement of weather and climate predictions that are vital to lives and property. More specifically, I am interested in conducting research on the limits to atmospheric predictability and identifying the actions (if any) that can be taken to extend these limits.
+
+As a graduate student, I have focused on the predictability of midlatitude cyclones on 2--4-day timescales. After graduation, I am interested in exploring the predictability of different phenomena (including polar and tropical weather) on different timescales (from hours to seasons). I am interested in career options in the academic, government, and private sectors.
+
+I am also passionate about service and teaching. I am currently on the AMS Committee on Weather Analysis and Forecasting, and I served as the Graduate President of the UW AMS student chapter from 2020--2022. I also was the UW WxChallenge team manager from 2020--2023. I have been the instructor or teaching assistant for numerous undergraduate courses at UW, including classes on hurricanes and thunderstorms, weather analysis and forecasting, and climate change. As a teacher, I am committed to engaging students with a wide variety of learning styles.
+
+</div>
+
+<div class="jumbotron">
+#### Personal
+
+I am originally from Clearwater, Florida. In my free time, you can find me weightlifting, reading, and cheering on my favorite college and professional sports teams.
+
 </div>

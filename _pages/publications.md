@@ -6,6 +6,8 @@ permalink: /publications/
 years: [2022, 2023]
 ---
 
+## Publications
+
 <style>
 .jumbotron{
     padding:3%;
@@ -17,16 +19,11 @@ years: [2022, 2023]
 </style>
 
 <div class="jumbotron">
-### Preprints
+#### In preparation
 {% bibliography --query @unpublished %}
 </div>
 
 <div class="jumbotron">
-### Refereed journal articles
+#### Refereed journal articles
 {% bibliography --query @article %}
-</div>
-
-<div class="jumbotron">
-### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
 </div>
