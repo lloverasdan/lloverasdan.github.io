@@ -5,7 +5,7 @@ sitemap: false
 permalink: /about/
 ---
 
-## About me
+### About me
 
 {% for member in site.data.pi %}
 <div class="jumbotron">
@@ -63,7 +63,7 @@ permalink: /about/
 {% endfor %}
 
 <div class="jumbotron">
-#### Background
+### *Background*
 
 I am a PhD candidate in the Department of Atmospheric Sciences at the University of Washington. My research deals with atmospheric predictability, specifically focusing on the initial-condition errors that lead to poor forecasts of midlatitude cyclones. I use WRF simulations of both idealized and real-world cyclones to conduct my experiments. My advisor is Professor Dale Durran.
 
@@ -74,7 +74,7 @@ I completed my BS at the University of Miami in 2018. For my senior thesis, I in
 </div>
 
 <div class="jumbotron">
-#### Interests and goals
+### *Interests and goals*
 
 Broadly speaking, my goal is to use my background in meteorology and numerical modeling to contribute to the improvement of weather and climate predictions that are vital to lives and property. More specifically, I am interested in conducting research on the limits to atmospheric predictability and identifying the actions (if any) that can be taken to extend these limits.
 
@@ -85,7 +85,7 @@ I am also passionate about service and teaching. I am currently on the AMS Commi
 </div>
 
 <div class="jumbotron">
-#### Personal
+### *Personal*
 
 I am originally from Clearwater, Florida. In my free time, you can find me weightlifting, reading, and cheering on my favorite college and professional sports teams.
 

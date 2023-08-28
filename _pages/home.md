@@ -5,11 +5,11 @@ sitemap: false
 permalink: /
 ---
 
-## Welcome to my professional  webpage!
+### Welcome to my professional webpage!
 
 Here you can find information on my background and skills, career goals, research projects and interests, publications and presentations, and teaching experience. Use the tab above to navigate between these pages. On the sidebar to the right you can find relevant links, including my email, CV, and scholarly profiles.
 
-## Research interests
+### *Research interests*
 
 * Atmospheric predictability
 * Synoptic and mesoscale meteorology
