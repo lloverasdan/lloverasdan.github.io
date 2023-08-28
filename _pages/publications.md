@@ -3,7 +3,7 @@ title: "Publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
-years: [2022, 2023]
+years: [2021, 2022, 2023]
 ---
 
 ### Publications
