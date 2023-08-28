@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Daniel J. Lloveras
+email: lloverasdan@gmail.com
+description:
 baseurl: ""
 url: ""
 
@@ -12,18 +12,17 @@ url: ""
 
 # Footer info
 affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
-    California Institute of Technology
+    Daniel J. Lloveras<br/>
+    PhD candidate in atmospheric science<br/>
+    University of Washington
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Atmospheric Sciences-Geophysics Building<br/>
+  3920 Okanogan Lane NE<br/>
+  Seattle, WA 98195
 
 contact: >
-    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-    <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="mailto:lloverasdan@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Daniel via email</a> <br/>
 
 # Pages shown in navbar
 nav_pages:
@@ -32,7 +31,6 @@ nav_pages:
   - name: talks
   - name: research
   - name: software
-  - name: team
   - name: teaching
 
 include:
@@ -63,8 +61,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Doe
-  first_name: [John]
+  last_name: Lloveras
+  first_name: Daniel
 
   style: citesty
   locale: en
