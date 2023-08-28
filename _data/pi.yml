@@ -1,21 +1,23 @@
-- name: Dr. Richard Feynman
+- name: Daniel J. Lloveras
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: Daniel J. Lloveras PhD Candidate, University of Washington
+  email: lloverasdan@gmail.com
+  github: https://github.com/lloverasdan
+  researchgate: https://www.researchgate.net/profile/Daniel-Lloveras
+  scholar: https://scholar.google.com/citations?user=lhxRbykAAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  number_educ: 3
+  education1: "(Expected 2023) Ph.D. Atmospheric Sciences, University of Washington"
+  education2: "(2021) M.S. Atmospheric Sciences, University of Washington"
+  education3: "(2018) B.S. Meteorology and Applied Math, University of Miami"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: (Expected 2023) Ph.D. Atmospheric Sciences, University of Washington
+  education2short: (2021) M.S. Atmospheric Sciences, University of Washington
+  education3short: (2018) B.S. Meteorology and Applied Math, University of Miami
   # education3short: 
   # education4short: 
   # education5short: 
