@@ -5,9 +5,11 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome to my professional webpage!
+<br>
 
-Here you can find information on my background and skills, career goals, research projects and interests, publications and presentations, and teaching experience. Use the tab above to navigate between these pages. On the sidebar to the right you can find relevant links, including my email, CV, and scholarly profiles.
+### Welcome to my professional website!
+
+Here you can find information on my background, goals, research projects, publications and presentations, and teaching experience. Use the tab above to navigate between these pages. Below my headshot you can find other relevant links, including my email, CV, and scholarly profiles.
 
 ### *Research interests*
 
@@ -21,7 +23,7 @@ Here you can find information on my background and skills, career goals, researc
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/dbz_full.jpg" width="100%"/><br/>
-Don't sweat the small stuff. From Lloveras et al. (2023). <br/>
+From Lloveras et al. (2023): Don't sweat the small stuff. <br/>
 </center>
 </div>
 </div>

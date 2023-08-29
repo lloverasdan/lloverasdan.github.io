@@ -74,7 +74,7 @@ I completed my BS at the University of Miami in 2018. For my senior thesis, I in
 </div>
 
 <div class="jumbotron">
-### *Interests and goals*
+### *Goals*
 
 Broadly speaking, my goal is to use my background in meteorology and numerical modeling to contribute to the improvement of weather and climate predictions that are vital to lives and property. More specifically, I am interested in conducting research on the limits to atmospheric predictability and identifying the actions (if any) that can be taken to extend these limits.
 

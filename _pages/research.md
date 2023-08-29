@@ -8,12 +8,12 @@ permalink: /research/
 ### Research projects
 
 <div class="jumbotron">
-#### *The predictability of midlatitude cyclones: Idealized case studies*
+#### *Improving the realism of idealized midlatitude-cyclone simulations*
 
 </div>
 
 <div class="jumbotron">
-#### *Initializing realistic idealized midlatitude cyclones with moisture*
+#### *The predictability of midlatitude cyclones: Idealized case studies*
 
 </div>
 
