@@ -9,7 +9,7 @@ years: [2021, 2022, 2023]
 ### Publications
 
 <div class="jumbotron">
-### *In preparation*
+### *Submitted*
 {% bibliography --query @unpublished %}
 </div>
 
