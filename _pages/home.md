@@ -7,9 +7,11 @@ permalink: /
 
 <br>
 
-### Welcome to my professional website!
+### Welcome to my website!
 
-Here you can find information on my background, goals, research projects, publications and presentations, and teaching experience. Use the tab above to navigate between these pages. Below my headshot you can find other relevant links, including my email, CV, and scholarly profiles.
+I am currently a Postdoctoral Research Associate with the National Research Council working at the United States Naval Research Laboratory. My current research focuses on the predictability of polar lows.
+
+Here you can find information on my background, goals and research. Use the tab above to navigate between these pages. Below my headshot you can find other relevant links, including my email, CV, and scholarly profiles.
 
 ### *Research interests*
 

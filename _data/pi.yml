@@ -1,6 +1,6 @@
 - name: Daniel J. Lloveras
   photo: headshot.jpg
-  info: PhD Candidate, University of Washington
+  info: Postdoctoral Research Associate
   email: lloverasdan@gmail.com
   github: https://github.com/lloverasdan
   researchgate: https://www.researchgate.net/profile/Daniel-Lloveras
@@ -8,16 +8,16 @@
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 3
-  education1: "(Expected 2023) Ph.D. Atmospheric Sciences, University of Washington"
-  education2: "(2021) M.S. Atmospheric Sciences, University of Washington"
-  education3: "(2018) B.S. Meteorology and Applied Math, University of Miami"
+  education1: "(2023) PhD in Atmospheric Sciences, University of Washington"
+  education2: "(2021) MS in Atmospheric Sciences, University of Washington"
+  education3: "(2018) BS in Meteorology and Applied Mathematics, University of Miami"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (Expected 2023) Ph.D. Atmospheric Sciences, University of Washington
-  education2short: (2021) M.S. Atmospheric Sciences, University of Washington
-  education3short: (2018) B.S. Meteorology and Applied Math, University of Miami
+  education1short: (2023) PhD in Atmospheric Sciences, University of Washington
+  education2short: (2021) MS in Atmospheric Sciences, University of Washington
+  education3short: (2018) BS in Meteorology and Applied Mathematics, University of Miami
   # education3short: 
   # education4short: 
   # education5short: 
