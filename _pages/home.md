@@ -18,7 +18,7 @@ Here you can find information on my background, goals and research. Use the tab 
 * Atmospheric predictability
 * Synoptic and mesoscale meteorology
 * Numerical methods
-* Midlatitude cyclones
+* Extratropical cyclones
 * Polar lows
 
 <div class="container">
