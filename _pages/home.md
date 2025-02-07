@@ -16,10 +16,10 @@ Here you can find information on my background, goals and research. Use the tab 
 ### *Research interests*
 
 * Atmospheric predictability
+* Deep learning weather prediction
 * Synoptic and mesoscale meteorology
 * Numerical methods
 * Extratropical cyclones
-* Polar lows
 
 <div class="container">
 <div class="row">
