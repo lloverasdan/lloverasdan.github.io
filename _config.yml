@@ -29,7 +29,6 @@ nav_pages:
   - name: about
 #  - name: research
   - name: publications
-  - name: talks
 
 include:
   - .htaccess
