@@ -9,7 +9,7 @@ permalink: /
 
 ### Welcome to my website!
 
-I am currently a Postdoctoral Research Associate with the National Research Council working at the United States Naval Research Laboratory. My current research focuses on the predictability of polar lows.
+I am a meteorological research scientist working for SAIC and the U.S. Naval Research Laboratory. For my research, I leverage a mix of physics-based and machine-learning weather models to address basic and applied questions about atmospheric dynamics and predictability.
 
 Here you can find information on my background, goals and research. Use the tab above to navigate between these pages. Below my headshot you can find other relevant links, including my email, CV, and scholarly profiles.
 
