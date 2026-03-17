@@ -13,16 +13,14 @@ url: ""
 # Footer info
 affiliation: >
     Daniel J. Lloveras, PhD<br/>
-    Postdoctoral Research Associate<br/>
-    National Research Council
+    Meteorological Research Scientist 
 
 location: >
-  United States Naval Research Laboratory<br/>
-  7 Grace Hopper Ave<br/>
-  Monterey, CA 93943
+  Science Applications International Corporation<br/>
+  U.S. Naval Research Laboratory
 
 contact: >
-    <a href="mailto:daniel.j.lloveras.ctr@us.navy.mil" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Daniel via email</a> <br/>
+    <a href="mailto:lloverasdan@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Daniel via email</a> <br/>
 
 # Pages shown in navbar
 nav_pages:
