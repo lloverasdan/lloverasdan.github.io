@@ -65,7 +65,7 @@ permalink: /about/
 <div class="jumbotron">
 ### *Background*
 
-I am currently doing a postdoc at the Naval Research Laboratory, a position I began in January 2024. My research focuses on the predictability of polar lows. My advisor is Dr. Jim Doyle.
+Prior to my current position, I was a postdoctoral research associate at the U.S. Naval Research Laboratory. My research focused on the predictability of Arctic polar lows. My advisor was Dr. Jim Doyle.
 
 I earned my PhD from the University of Washington in 2023. My research dealt with atmospheric predictability, specifically focusing on the initial-condition errors that lead to poor forecasts of midlatitude cyclones. I used WRF simulations of both idealized and real-world cyclones to conduct my experiments. My advisor was Professor Dale Durran.
 
@@ -76,17 +76,8 @@ I completed my BS at the University of Miami in 2018. For my senior thesis, I in
 </div>
 
 <div class="jumbotron">
-### *Goals*
-
-Broadly speaking, my goal is to use my background in meteorology and numerical modeling to contribute to the improvement of weather and climate predictions that are vital to lives and property. More specifically, I am interested in conducting research on the limits to atmospheric predictability and identifying the actions (if any) that can be taken to extend these limits.
-
-I am also passionate about service and teaching. I am currently on the AMS Committee on Weather Analysis and Forecasting, and I served as the Graduate President of the UW AMS student chapter from 2020--2022. I also was the UW WxChallenge team manager from 2020--2023. I was the instructor or teaching assistant for numerous undergraduate courses at the University of Washington, including classes on hurricanes and thunderstorms, weather analysis and forecasting, and climate change. As a teacher, I am committed to engaging students with a wide variety of learning styles.
-
-</div>
-
-<div class="jumbotron">
 ### *Personal*
 
-I am originally from Clearwater, Florida. In my free time, you can find me weightlifting, reading, and cheering on my favorite college and professional sports teams.
+I am originally from Clearwater, Florida. In my free time, you can find me weightlifting, swimming, reading, and cheering on my favorite college and professional sports teams.
 
 </div>
